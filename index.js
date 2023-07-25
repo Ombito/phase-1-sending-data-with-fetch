@@ -20,6 +20,7 @@ const submitData = () => {
     newData.textContent = data.id
     body.appendChild(newData)
 
+    
 
      console.log(data)
 .catch(error => {
